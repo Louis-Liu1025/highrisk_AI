@@ -1,0 +1,13 @@
+opencv-python==4.5.3.56
+numpy==1.17.3
+scipy
+Pillow
+cython
+matplotlib
+scikit-image==0.16.2
+keras==2.1.5
+qtpy==2.0.1
+h5py
+imgaug
+IPython[all]
+flask
